@@ -16,7 +16,7 @@ tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 
 ### 💻 Technical Expertise:
-- <b>Back-End:</b>   Laravel, NestJs.js, Node.js, PHP, Python, RESTful APIs, Microservices
+- <b>Back-End:</b>   Python, Laravel, NestJs.js, Node.js, PHP, RESTful APIs, Microservices
 - <b>Front-End:</b>  React.js, JavaScript, Tailwind, Bootstrap, jQuery, HTML5, CSS3
 - <b>Databases:</b>  MySQL, PostgreSQL, MongoDB, Redis, Kafka
 - <b>Libraries:</b>  Redux, Redux-Hooks, Zustand, Formik, Jest, Vite 
