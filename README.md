@@ -11,7 +11,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a professional developer with 7 years of experience in software development and a Full Stack IT consultant
+I am a professional developer with 8 years of experience in software development and a Full Stack IT consultant
 tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am an expert in frameworks such as Laravel and React, as well as cloud services like AWS. My key achievements include creating a tenant-based application using Laravel, React, and AWS. I prioritize team collaboration and adaptability, utilizing my coding, debugging, and project management skills to deliver reliable and flexible solutions.
 
 
@@ -19,7 +19,7 @@ tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 - <b>Back-End:</b>   Python, Laravel, NestJs.js, Node.js, PHP, RESTful APIs, Microservices
 - <b>Front-End:</b>  React.js, JavaScript, Tailwind, Bootstrap, jQuery, HTML5, CSS3
 - <b>Databases:</b>  MySQL, PostgreSQL, MongoDB, Redis, Kafka
-- <b>Libraries:</b>  Redux, Redux-Hooks, Zustand, Formik, Jest, Vite 
+- <b>Libraries:</b>  Langchain, Redux, Redux-Hooks, Zustand, Formik, Jest, Vite 
 - <b>Cloud:</b>      AWS (EC2, S3, RDS, SQS, Lambda, Secret Manager) 
 - <b>Tools:</b>      Docker, GitLab, Visual Studio
 
