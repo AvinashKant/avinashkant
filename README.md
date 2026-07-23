@@ -19,7 +19,7 @@ tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 - <b>Back-End:</b>   Python, Laravel, NestJs.js, Node.js, PHP, RESTful APIs, Microservices
 - <b>Front-End:</b>  React.js, JavaScript, Tailwind, Bootstrap, jQuery, HTML5, CSS3
 - <b>Databases:</b>  MySQL, PostgreSQL, MongoDB, Redis, Kafka
-- <b>Libraries:</b>  Langchain, Redux, Redux-Hooks, Zustand, Formik, Jest, Vite 
+- <b>Libraries:</b>  LangChain, LangGraph Redux, Redux-Hooks, Zustand, Formik, Jest, Vite 
 - <b>Cloud:</b>      AWS (EC2, S3, RDS, SQS, Lambda, Secret Manager) 
 - <b>Tools:</b>      Docker, GitLab, Visual Studio
 
