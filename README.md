@@ -25,12 +25,7 @@ tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 #### :fire: My Stats :
 
-<a href="https://github.com/Avinashkant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashkant&theme=light&count_private=true&layout=compact" width="400" alt="Avinash's most used languages" />
-</a>
-<a href="https://github.com/Avinashkant">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avinashkant&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="400" alt="Avinash's github stats"/>
-</a>
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AvinashKant&type=languages)
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
