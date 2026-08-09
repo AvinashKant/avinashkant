@@ -12,7 +12,16 @@
 
 #### 💻 &nbsp; About Me :
 I am a professional developer with 8 years of experience in software development and a Full Stack IT consultant
-tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am an expert in frameworks such as Laravel and React, as well as cloud services like AWS. My key achievements include creating a tenant-based application using Laravel, React, and AWS. I prioritize team collaboration and adaptability, utilizing my coding, debugging, and project management skills to deliver reliable and flexible solutions.
+tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am an expert in frameworks such as Laravel and React, as well as cloud services like AWS. My key achievements include creating a tenant-based application using Laravel, React, and AWS. I prioritize team collaboration and adaptability, utilizing my coding, debugging, and project management skills to deliver reliable and flexible solutions. 
+I am a seasoned **Full Stack Developer and IT Consultant** with over **8 years of experience** in software development, application architecture, and technology consulting.
+
+I specialize in developing **scalable, high-performance, and maintainable applications** using technologies such as **Laravel, React, and AWS**. My expertise spans full-stack development, cloud computing, system design, debugging, application architecture, and project management.
+
+One of my key achievements includes designing and developing a **multi-tenant application using Laravel, React, and AWS**, demonstrating my ability to build scalable, cloud-based, secure, and flexible software solutions.
+
+I strongly value **team collaboration, adaptability, continuous learning, and effective problem-solving**. I work effectively across diverse technical and business environments and focus on translating business requirements into reliable technology solutions.
+
+My professional approach combines **strong technical expertise, strategic thinking, and project management skills** to deliver robust, scalable, and business-oriented solutions that address current requirements while supporting future growth.
 
 
 ### 💻 Technical Expertise:
