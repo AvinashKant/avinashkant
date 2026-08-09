@@ -11,8 +11,6 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a professional developer with 8 years of experience in software development and a Full Stack IT consultant
-tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am an expert in frameworks such as Laravel and React, as well as cloud services like AWS. My key achievements include creating a tenant-based application using Laravel, React, and AWS. I prioritize team collaboration and adaptability, utilizing my coding, debugging, and project management skills to deliver reliable and flexible solutions. 
 I am a seasoned **Full Stack Developer and IT Consultant** with over **8 years of experience** in software development, application architecture, and technology consulting.
 
 I specialize in developing **scalable, high-performance, and maintainable applications** using technologies such as **Laravel, React, and AWS**. My expertise spans full-stack development, cloud computing, system design, debugging, application architecture, and project management.
