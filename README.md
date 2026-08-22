@@ -22,7 +22,14 @@ I strongly value **team collaboration, adaptability, continuous learning, and ef
 My professional approach combines **strong technical expertise, strategic thinking, and project management skills** to deliver robust, scalable, and business-oriented solutions that address current requirements while supporting future growth.
 
 
-### 💻 Technical Expertise:
+### 💻 Technical Skills & Technology Stack:
+
+## 🔹 Backend Development
+- **Languages:** Python, PHP
+- **Frameworks:** Laravel, Node.js, NestJS
+- **API Development:** RESTful APIs, API Design & Integration
+- **Architecture:** Microservices, Service-Oriented Architecture
+
 - <b>Back-End:</b>   Python, Laravel, NestJs.js, Node.js, PHP, RESTful APIs, Microservices
 - <b>Front-End:</b>  React.js, JavaScript, Tailwind, Bootstrap, jQuery, HTML5, CSS3
 - <b>Databases:</b>  MySQL, PostgreSQL, MongoDB, Redis, Kafka
