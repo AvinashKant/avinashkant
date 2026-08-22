@@ -22,13 +22,57 @@ I strongly value **team collaboration, adaptability, continuous learning, and ef
 My professional approach combines **strong technical expertise, strategic thinking, and project management skills** to deliver robust, scalable, and business-oriented solutions that address current requirements while supporting future growth.
 
 
-### 💻 Technical Skills & Technology Stack:
+# 💻 Technical Skills & Technology Stack
 
-## 🔹 Backend Development
-- <b>Languages:</b> Python, PHP
-- <b>Frameworks:</b> Laravel, Node.js, NestJS
-- <b>API Development:</b> RESTful APIs, API Design & Integration
-- <b>Architecture:</b> Microservices, Service-Oriented Architecture
+# 🔹 Backend Development
+
+- **Languages:** Python, PHP
+- **Frameworks:** Laravel, Node.js, NestJS
+- **API Development:** RESTful APIs, API Design & Integration
+- **Architecture:** Microservices, Service-Oriented Architecture
+
+## 🔹 Frontend Development
+
+- **Frameworks & Libraries:** React.js, jQuery
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **UI & Styling:** Tailwind CSS, Bootstrap
+- **State Management:** Redux, Redux Hooks, Zustand
+- **Form Management:** Formik
+
+## 🔹 Databases & Messaging
+
+- **Relational Databases:** MySQL, PostgreSQL
+- **NoSQL Databases:** MongoDB
+- **Caching:** Redis
+- **Event Streaming & Messaging:** Apache Kafka
+
+## 🔹 AI / LLM & Application Libraries
+
+- LangChain
+- LangGraph
+- Redux
+- Redux Hooks
+- Zustand
+- Formik
+- Jest
+- Vite
+
+## 🔹 Cloud & AWS
+
+- **Compute:** Amazon EC2, AWS Lambda
+- **Object Storage:** Amazon S3
+- **Managed Database:** Amazon RDS
+- **Message Queuing:** Amazon SQS
+- **Secrets Management:** AWS Secrets Manager
+- **Cloud Application Deployment & Integration**
+
+## 🔹 DevOps & Development Tools
+
+- **Containerization:** Docker
+- **Version Control & CI/CD:** GitLab
+- **IDE:** Visual Studio / Visual Studio Code
+- **Development Practices:** Containerized Development, CI/CD Workflows
+
 
 - <b>Back-End:</b>   Python, Laravel, NestJs.js, Node.js, PHP, RESTful APIs, Microservices
 - <b>Front-End:</b>  React.js, JavaScript, Tailwind, Bootstrap, jQuery, HTML5, CSS3
