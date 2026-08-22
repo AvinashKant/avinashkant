@@ -25,10 +25,10 @@ My professional approach combines **strong technical expertise, strategic thinki
 ### 💻 Technical Skills & Technology Stack:
 
 ## 🔹 Backend Development
-- **Languages:** Python, PHP
-- **Frameworks:** Laravel, Node.js, NestJS
-- **API Development:** RESTful APIs, API Design & Integration
-- **Architecture:** Microservices, Service-Oriented Architecture
+- <b>Languages:</b> Python, PHP
+- <b>Frameworks:</b> Laravel, Node.js, NestJS
+- <b>API Development:</b> RESTful APIs, API Design & Integration
+- <b>Architecture:</b> Microservices, Service-Oriented Architecture
 
 - <b>Back-End:</b>   Python, Laravel, NestJs.js, Node.js, PHP, RESTful APIs, Microservices
 - <b>Front-End:</b>  React.js, JavaScript, Tailwind, Bootstrap, jQuery, HTML5, CSS3
