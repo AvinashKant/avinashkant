@@ -73,14 +73,6 @@ My professional approach combines **strong technical expertise, strategic thinki
 - **IDE:** Visual Studio / Visual Studio Code
 - **Development Practices:** Containerized Development, CI/CD Workflows
 
-
-- <b>Back-End:</b>   Python, Laravel, NestJs.js, Node.js, PHP, RESTful APIs, Microservices
-- <b>Front-End:</b>  React.js, JavaScript, Tailwind, Bootstrap, jQuery, HTML5, CSS3
-- <b>Databases:</b>  MySQL, PostgreSQL, MongoDB, Redis, Kafka
-- <b>Libraries:</b>  LangChain, LangGraph Redux, Redux-Hooks, Zustand, Formik, Jest, Vite 
-- <b>Cloud:</b>      AWS (EC2, S3, RDS, SQS, Lambda, Secret Manager) 
-- <b>Tools:</b>      Docker, GitLab, Visual Studio
-
 #### :fire: My Stats :
 
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AvinashKant&type=languages)
