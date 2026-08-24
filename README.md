@@ -48,14 +48,7 @@ My professional approach combines **strong technical expertise, strategic thinki
 
 ## 🔹 AI / LLM & Application Libraries
 
-- LangChain
-- LangGraph
-- Redux
-- Redux Hooks
-- Zustand
-- Formik
-- Jest
-- Vite
+- LangChain, LangGraph, Redux, Redux Hooks, Zustand, Formik, Jest, Vite
 
 ## 🔹 Cloud & AWS
 
