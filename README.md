@@ -32,7 +32,6 @@ My professional approach combines **strong technical expertise, strategic thinki
 - **Architecture:** Microservices, Service-Oriented Architecture
 
 ## 🔹 Frontend Development
-
 - **Frameworks & Libraries:** React.js, jQuery
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **UI & Styling:** Tailwind CSS, Bootstrap
